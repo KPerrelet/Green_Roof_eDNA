@@ -1,5 +1,7 @@
 # Green_Roof_eDNA
-Data and code for the article titled "Green roofs harbor different and non-substituting invertebrate communities than surrounding ground-level habitats"
+Data and code for the article titled "Green roofs harbor different and non-substituting invertebrate communities than surrounding ground-level habitats" (https://doi.org/10.1016/j.jenvman.2025.126630).
+https://www.sciencedirect.com/science/article/pii/S0301479725026064
+
 
 
 The information contained in this repository is referenced in the manuscript. 
@@ -42,7 +44,7 @@ skyline_taxo.csv - Taxonomy table, also containing mobility mode values, for all
 Rows = taxa, columns = phylogeny and mobility mode. 
 
 
-Raw sequences for the data generated in this study will be uploaded on the European Nucleotide Archive upon acceptance.
+Raw sequences for the data generated in this study are available on European Nucleotide Archive under project accession PRJEB94011.
 
 
 *****************************************************
